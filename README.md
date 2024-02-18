@@ -5,7 +5,7 @@
 
 | Audit Contest | Date          | Language | Result | Host                                                                                   |
 | ------------- | ------------- | -------- | ------ | -------------------------------------------------------------------------------------- |
-| PuppyRaffle   | 2024-February | solidity | ----   | Codehawks [Link](https://https://www.codehawks.com/contests/clo383y5c000jjx087qrkbrj8) |
+| PuppyRaffle   | 2024-February | solidity | [Link](https://github.com/itsmohammadh/Cyfrin-Audit/blob/main/audit-data/PuppyRaffle/report.pdf)   | Codehawks [Link](https://www.codehawks.com/contests/clo383y5c000jjx087qrkbrj8) |
 
 # <a name="Competition"></a>Competition Profile
 
